@@ -7,3 +7,5 @@ to raise up your hand to control the dinosaur for jumping.
 
 ## Design Interface
 
+Main Menu
+![image alt](https://github.com/YongQ02/HandTrack_DinoGame/blob/3d391e98ae8673bf14b6f0e759be6af2f242dc5a/assets/DesignInterface1.jpeg)
